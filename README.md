@@ -1,5 +1,4 @@
-https://coveralls.io/repos/github/TestowanieAutomatyczneUG/laboratorium-7-Plastikowy-Metal/badge.svg?branch=master(Coverage Status)!:https://coveralls.io/github/TestowanieAutomatyczneUG/laboratorium-7-Plastikowy-Metal?branch=master
-
+https://coveralls.io/repos/github/TestowanieAutomatyczneUG/laboratorium-7-Plastikowy-Metal/badge.svg?branch=master(Coverage Status[![Coverage Status](https://coveralls.io/repos/github/TestowanieAutomatyczneUG/laboratorium-7-Plastikowy-Metal/badge.svg?branch=master)](https://coveralls.io/github/TestowanieAutomatyczneUG/laboratorium-7-Plastikowy-Metal?branch=master)
 # A sample Python project
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png "Sample inline image")
