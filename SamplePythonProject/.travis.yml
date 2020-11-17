@@ -15,3 +15,6 @@ script: tox
 
 notifications:
   email: false
+
+service_name: travis-pro
+repo_token: dURWb8uEcPG7iNPZeEBWPwwoY6Z4j9vPw
