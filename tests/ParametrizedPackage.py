@@ -1,6 +1,6 @@
 import unittest
 from sample.Planety import *
-from parameterized import parameterized, parameterized_class
+from parameterized import *
 
 class PlanetyParameterizedPackage(unittest.TestCase):
 
