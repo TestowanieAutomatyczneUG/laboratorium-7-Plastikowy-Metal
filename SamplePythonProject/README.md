@@ -30,7 +30,7 @@ Typical contents for this file would include an overview of the project, basic
 usage examples, etc. Generally, including the project changelog in here is not a
 good idea, although a simple “What's New” section for the most recent version
 may be appropriate.
-
+[![Coverage Status](https://coveralls.io/repos/github/TestowanieAutomatyczneUG/laboratorium-7-Plastikowy-Metal/badge.svg?branch=master)](https://coveralls.io/github/TestowanieAutomatyczneUG/laboratorium-7-Plastikowy-Metal?branch=master)
 [packaging guide]: https://packaging.python.org
 [distribution tutorial]: https://packaging.python.org/tutorials/packaging-projects/
 [src]: https://github.com/pypa/sampleproject
