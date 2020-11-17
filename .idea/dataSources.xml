@@ -19,5 +19,11 @@
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\taske\OneDrive\Desktop\laboratorium-7-Plastikowy-Metal\SamplePythonProject\src\sample\.coverage</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="[4]" uuid="0359a3d8-5d93-48a0-9ea7-cdcb69502fa3">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\taske\OneDrive\Desktop\laboratorium-7-Plastikowy-Metal\tests\.coverage</jdbc-url>
+    </data-source>
   </component>
 </project>
