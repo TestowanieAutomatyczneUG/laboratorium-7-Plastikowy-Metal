@@ -3,7 +3,7 @@ from sample.Planety import *
 
 class PlanetyParameterizedFile(unittest.TestCase):
     def test_from_file(self):
-      fileTest = open("../data/planety_data_test")
+      fileTest = open("./data/planety_data_test")
       tmp = Planety()
       for line in fileTest:
         if line.startswith("#") or line.startswith(" ") or line.startswith("\n"):
